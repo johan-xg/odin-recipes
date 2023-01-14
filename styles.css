@@ -1,0 +1,28 @@
+html{
+    background-color: lightblue;
+}
+body{
+    font-family: Helvetica;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+
+
+.links > p{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+}
