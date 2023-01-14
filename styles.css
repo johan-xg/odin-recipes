@@ -7,8 +7,10 @@ body{
 
 h1{
     text-align: center;
-    color: white;
+    color: lightblue;
     font-size: 70px;
+    background-color: black;
+    margin-top: 0;
 }
 
 
