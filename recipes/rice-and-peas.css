@@ -24,7 +24,7 @@ h1{
 }
 
 #recipe-content{
-    background-color: rgba(128, 128, 128, 0.25);
+    background-color: rgba(0, 0, 0, 0.1);
     padding: 10px;
     margin: 30px;
 }
